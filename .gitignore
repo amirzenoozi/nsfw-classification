@@ -49,6 +49,7 @@ Thumbs.db
 /images
 /data
 /model
+/upload
 /__pycache__
 /*/__pycache__
 *.jpg
