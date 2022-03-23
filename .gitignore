@@ -55,3 +55,4 @@ Thumbs.db
 *.jpg
 *.jpeg
 .env
+.localenv
