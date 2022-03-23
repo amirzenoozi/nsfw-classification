@@ -1,0 +1,207 @@
+{
+    "frame0": {
+        "neutral": 99.42,
+        "porn": 0.11,
+        "sexy": 0.46
+    },
+    "frame1": {
+        "neutral": 11.0,
+        "porn": 78.64,
+        "sexy": 10.36
+    },
+    "frame10": {
+        "neutral": 0.98,
+        "porn": 98.24,
+        "sexy": 0.78
+    },
+    "frame11": {
+        "neutral": 0.35,
+        "porn": 99.04,
+        "sexy": 0.61
+    },
+    "frame12": {
+        "neutral": 1.54,
+        "porn": 97.14,
+        "sexy": 1.32
+    },
+    "frame13": {
+        "neutral": 2.88,
+        "porn": 94.67,
+        "sexy": 2.45
+    },
+    "frame14": {
+        "neutral": 0.17,
+        "porn": 99.5,
+        "sexy": 0.33
+    },
+    "frame15": {
+        "neutral": 0.19,
+        "porn": 99.06,
+        "sexy": 0.75
+    },
+    "frame16": {
+        "neutral": 0.3,
+        "porn": 98.85,
+        "sexy": 0.85
+    },
+    "frame17": {
+        "neutral": 0.98,
+        "porn": 96.39,
+        "sexy": 2.64
+    },
+    "frame18": {
+        "neutral": 1.31,
+        "porn": 93.32,
+        "sexy": 5.37
+    },
+    "frame19": {
+        "neutral": 6.68,
+        "porn": 87.16,
+        "sexy": 6.17
+    },
+    "frame2": {
+        "neutral": 14.41,
+        "porn": 80.3,
+        "sexy": 5.29
+    },
+    "frame20": {
+        "neutral": 2.67,
+        "porn": 94.45,
+        "sexy": 2.88
+    },
+    "frame21": {
+        "neutral": 0.15,
+        "porn": 99.53,
+        "sexy": 0.32
+    },
+    "frame22": {
+        "neutral": 3.56,
+        "porn": 94.76,
+        "sexy": 1.68
+    },
+    "frame23": {
+        "neutral": 5.82,
+        "porn": 92.67,
+        "sexy": 1.52
+    },
+    "frame24": {
+        "neutral": 1.19,
+        "porn": 98.05,
+        "sexy": 0.77
+    },
+    "frame25": {
+        "neutral": 0.43,
+        "porn": 99.01,
+        "sexy": 0.56
+    },
+    "frame26": {
+        "neutral": 0.4,
+        "porn": 99.08,
+        "sexy": 0.52
+    },
+    "frame27": {
+        "neutral": 0.38,
+        "porn": 98.99,
+        "sexy": 0.63
+    },
+    "frame28": {
+        "neutral": 0.39,
+        "porn": 99.19,
+        "sexy": 0.42
+    },
+    "frame29": {
+        "neutral": 0.32,
+        "porn": 99.35,
+        "sexy": 0.33
+    },
+    "frame3": {
+        "neutral": 12.85,
+        "porn": 78.57,
+        "sexy": 8.57
+    },
+    "frame30": {
+        "neutral": 0.19,
+        "porn": 99.15,
+        "sexy": 0.66
+    },
+    "frame31": {
+        "neutral": 1.23,
+        "porn": 93.44,
+        "sexy": 5.32
+    },
+    "frame32": {
+        "neutral": 0.39,
+        "porn": 99.31,
+        "sexy": 0.3
+    },
+    "frame33": {
+        "neutral": 0.72,
+        "porn": 98.58,
+        "sexy": 0.7
+    },
+    "frame34": {
+        "neutral": 0.75,
+        "porn": 98.7,
+        "sexy": 0.56
+    },
+    "frame35": {
+        "neutral": 1.42,
+        "porn": 97.1,
+        "sexy": 1.47
+    },
+    "frame36": {
+        "neutral": 0.08,
+        "porn": 99.68,
+        "sexy": 0.24
+    },
+    "frame37": {
+        "neutral": 0.08,
+        "porn": 99.76,
+        "sexy": 0.16
+    },
+    "frame38": {
+        "neutral": 0.62,
+        "porn": 98.85,
+        "sexy": 0.52
+    },
+    "frame39": {
+        "neutral": 0.67,
+        "porn": 98.7,
+        "sexy": 0.62
+    },
+    "frame4": {
+        "neutral": 2.62,
+        "porn": 94.64,
+        "sexy": 2.74
+    },
+    "frame40": {
+        "neutral": 0.63,
+        "porn": 98.76,
+        "sexy": 0.6
+    },
+    "frame5": {
+        "neutral": 1.81,
+        "porn": 93.37,
+        "sexy": 4.81
+    },
+    "frame6": {
+        "neutral": 0.58,
+        "porn": 98.46,
+        "sexy": 0.96
+    },
+    "frame7": {
+        "neutral": 0.41,
+        "porn": 98.36,
+        "sexy": 1.22
+    },
+    "frame8": {
+        "neutral": 6.01,
+        "porn": 91.68,
+        "sexy": 2.31
+    },
+    "frame9": {
+        "neutral": 5.11,
+        "porn": 93.54,
+        "sexy": 1.35
+    }
+}
