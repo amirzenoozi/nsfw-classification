@@ -32,9 +32,15 @@ Then You Just Need To Run This
 python frame.py --frame FRAME_TH --src VIDEO_FILE
 ```
 
+## How To Serve Telegram Bot
+Firstly, You Need To Get `API_TOKEN` from `Bot_Fother` and put it in `.localenv` File Then You Just Need To Run: 
+```bash
+python bot.py
+```
+
 ## Features
 - [x] Detect `Neutral` , `Porn` and `Sexy`
 - [x] CLI
-- [ ] Telegram Bot
+- [x] Telegram Bot
 - [ ] Rest API
 - [x] Video Files
