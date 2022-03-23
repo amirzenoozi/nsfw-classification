@@ -8,7 +8,7 @@ import json
 
 def write_json_file(dic, target_file):
     json_object = json.dumps(dic, indent = 4)
-    with open("result.json", "w") as outfile:
+    with open(target_file, "w") as outfile:
         outfile.write(json_object)
 
 
