@@ -11,6 +11,9 @@ def write_json_file(dic, target_file):
     with open(target_file, "w") as outfile:
         outfile.write(json_object)
 
+def save_file(filename, data):
+    with open(filename, 'wb') as f:
+        f.write(data)
 
 def load_image(filename):
     np_image = Image.open(filename)
