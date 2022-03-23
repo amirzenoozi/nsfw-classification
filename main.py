@@ -8,7 +8,7 @@ import os
 import script.utils
 
 def parse_args():
-    desc = "Frame Extractor"
+    desc = "NSFW Classification"
     parser = argparse.ArgumentParser(description=desc)
     parser.add_argument('--model', type=str, default='model/model.h5', help='Where Is Model File?')
     parser.add_argument('--dir', type=str, default='data/frames', help='What Is Images Directory?')
