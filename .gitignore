@@ -46,13 +46,15 @@ testem.log
 Thumbs.db
 
 # Just For This Project
-/images
-/data
-/model
-/upload
 /__pycache__
 /*/__pycache__
 *.jpg
 *.jpeg
 .env
 .localenv
+/images
+/model/*.h5
+/data/*/*
+/upload/*.jpg
+/upload/*.png
+/upload/*.jpeg
