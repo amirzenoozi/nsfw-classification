@@ -1,6 +1,8 @@
 # NSFW Classification ⛔
+![](https://github.com/amirzenoozi/nsfw-classification/blob/main/main.png)
+
 We Use Pretrained Keras Model to Classify `NSFW` Content
-![](https://github.com/amirzenoozi/nsfw-classification/blob/master/main.png)
+
 
 
 ## Requierments 📦
