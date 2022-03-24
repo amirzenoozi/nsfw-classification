@@ -42,5 +42,6 @@ python bot.py
 - [x] Detect `Neutral` , `Porn` and `Sexy`
 - [x] CLI
 - [x] Telegram Bot
-- [ ] Rest API
 - [x] Video Files
+- [x] Auto Scene Detect 
+- [ ] Rest API
