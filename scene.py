@@ -9,7 +9,7 @@ import argparse
 import os
 
 def parse_args():
-    desc = "NSFW Classification"
+    desc = "Scene Detection CLI"
     parser = argparse.ArgumentParser(description=desc)
     parser.add_argument('--threshold', type=float, default=15.0, help='Scene Detection Threshold')
     parser.add_argument('--src', type=str, default='sample.mp4', help='What Is Video PATH?')
