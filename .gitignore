@@ -53,6 +53,8 @@ Thumbs.db
 .env
 .localenv
 /images
+/dataset/*/*
+/dataset/*.txt
 /model/*.h5
 /data/*/*
 /upload/*.jpg
