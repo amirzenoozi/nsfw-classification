@@ -41,6 +41,12 @@ Firstly, You Need To Get `API_TOKEN` from `Bot_Fother` and put it in `.localenv`
 python bot.py
 ```
 
+## Rest API 📡
+You Only Need To Run:
+```bash
+uvicorn server:app
+```
+
 ## Features ✨
 - [x] Detect `Neutral` , `Porn` and `Sexy`
 - [x] CLI
@@ -48,3 +54,5 @@ python bot.py
 - [x] Video Files
 - [x] Auto Scene Detect 
 - [ ] Rest API
+    - [x] Image Support
+    - [ ] Video Support
