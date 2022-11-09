@@ -1,4 +1,5 @@
 from keras.models import load_model
+from tqdm import tqdm
 
 import numpy as np
 import argparse
@@ -28,7 +29,7 @@ def main():
     response  = {}
     frames = os.listdir(frames_path)
     folder_name = os.path.basename(frames_path)
-    for item in frames:
+    for item in tqdm(frames):
         if os.path.isfile(f'{frames_path}/{item}'):
             image = script.utils.load_image(f'{frames_path}/{item}')
             ans = model.predict(image)
