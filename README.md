@@ -5,12 +5,18 @@
 We Use Pretrained Keras Model to Classify `NSFW` Content
 
 
-
-## Requierments 📦
+## Prequisites
+To run bot you need CPU that supports AVX or AVX2 to run last versions of Tensorflow
+Otherwise you'll see output like this in your console:
+```bash
+Illegal instruction (core dumped)
+```
+### Requirements 📦
 
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ## Classifier CLI Options 📋
 
