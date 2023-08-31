@@ -61,3 +61,5 @@ Thumbs.db
 /upload/*.jpg
 /upload/*.png
 /upload/*.jpeg
+.env
+bot/.env
